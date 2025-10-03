@@ -1,0 +1,14 @@
+/**
+ * Stillingar fyrir vefinn.
+ * Bæði sass breytur og css custom properties.
+ */
+
+/** Sýna grind? */
+$grid: false;
+
+:root {
+  --columns: 12;
+  --gutter: 1rem;
+  --offset: 1rem;
+  --max-width: 1200px;
+}
